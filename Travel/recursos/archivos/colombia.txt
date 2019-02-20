@@ -1,0 +1,30 @@
+11
+Amazonas;235;391
+Antioquia;117;183
+Cundinamarca;173;244
+Huila;151;289
+Valle del cauca;84;261
+Guainia;292;279
+Boyaca;190;216
+La Guajira;199;45
+Bolivar;158;120
+Caqueta;164;356
+Nariño;71;313
+17
+Amazonas;Caqueta;360
+Amazonas;Huila;623
+Valle del cauca;Cundinamarca;490
+Valle del cauca;Antioquia;555
+Valle del cauca;Huila;342.77
+Nariño;Valle del cauca;505
+Nariño;Huila;470.5
+Caqueta;Nariño;393
+Huila;Guainia;777
+Huila;Cundinamarca;423.8
+La Guajira;Bolivar;310
+Bolivar;Antioquia;514
+Bolivar;Boyaca;368
+Boyaca;Antioquia;327
+Boyaca;Cundinamarca;107
+Boyaca;Guainia;597.4
+Guainia;Amazonas;682

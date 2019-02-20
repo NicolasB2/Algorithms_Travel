@@ -1,0 +1,30 @@
+#
+10
+Lascaux;cueva;187;89
+Marqueyssac;parque;289;123
+Beynac;castillo_p;158;158
+Eyzies;arte;109;231
+Aquarium du Périgord noir;agua;277;213
+Chateau des Milandes;castillo_p;59;303
+Font-de-Gaume;cueva;182;265
+Monbazillac;castillo_p;301;265
+Perigueux;catedral;155;341
+Madeleine;arte;300;347
+17
+Beynac;Lascaux;40.6
+Beynac;Marqueyssac;82.8
+Beynac;Eyzies;73.7
+Aquarium du Périgord noir;Lascaux;128.4
+Aquarium du Périgord noir;Marqueyssac;88.2
+Aquarium du Périgord noir;Beynac;64.9
+Aquarium du Périgord noir;Eyzies;79.11
+Chateau des Milandes;Eyzies;56.3
+Font-de-Gaume;Chateau des Milandes;86.5
+Font-de-Gaume;Eyzies;51.9
+Font-de-Gaume;Aquarium du Périgord noir;87.9
+Monbazillac;Aquarium du Périgord noir;44.8
+Monbazillac;Font-de-Gaume;58.4
+Perigueux;Chateau des Milandes;52.1
+Perigueux;Monbazillac;107.8
+Madeleine;Perigueux;76
+Madeleine;Monbazillac;92.6

@@ -1,0 +1,25 @@
+#
+8
+Kumamoto;castillo_j;31;324
+Aso;agua;110;289
+Suizen-ji;parque;165;383
+Greenland;parquemecanico;226;295
+Nabegadaki;agua;283;375
+Museum of Art;arte;211;220
+Ezuko;parque;328;173
+Izumi;castillo_j;205;111
+14
+Kumamoto;Aso;43.8
+Suizen-ji;Kumamoto;120.56
+Suizen-ji;Aso;103.6
+Greenland;Suizen-ji;86
+Greenland;Aso;95.9
+Nabegadaki;Greenland;96.7
+Nabegadaki;Suizen-ji;62.7
+Museum of Art;Greenland;34.1
+Museum of Art;Aso;107
+Ezuko;Museum of Art;22.5
+Ezuko;Greenland;57
+Ezuko;Nabegadaki;124.6
+Izumi;Museum of Art;54
+Izumi;Ezuko;28

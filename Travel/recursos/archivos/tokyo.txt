@@ -1,0 +1,25 @@
+#
+8
+Meguro;agua;320;282
+Takahata Fudoson;templo_j;199;305
+Inokashira;parque;238;241
+Mitake;arte;77;190
+Kazuma;agua;45;229
+Hamura;zoo;138;224
+Hachioji;castillo_j;122;277
+Sea Life Park;agua;374;236
+14
+Sea Life Park;Meguro;18
+Sea Life Park;Inokashira;31
+Meguro;Inokashira;22
+Meguro;Hachioji;41
+Meguro;Hamura;64.6
+Inokashira;Takahata Fudoson;18.8
+Inokashira;Hachioji;19
+Inokashira;Hamura;22
+Hachioji;Hamura;8
+Mitake;Hachioji;22
+Mitake;Hamura;14
+Mitake;Kazuma;9
+Kazuma;Hamura;16
+Kazuma;Hachioji;20

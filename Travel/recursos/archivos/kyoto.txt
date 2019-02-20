@@ -1,0 +1,24 @@
+#
+9
+Arashiyama;parque;115;70
+Kinkaku;templo_j;39;118
+Shugakuin;agua;55;222
+Hokanji;templo_j;113;168
+Sanzen-in;parque;146;246
+International Manga;arte;232;229
+Heian Shrine;castillo_j;233;307
+Katsura;agua;300;372
+Fushimi Inari-taisha;templo_j;323;439
+11
+Arashiyama;Kinkaku;37.9
+Hokanji;Shugakuin;44.9
+Kinkaku;Hokanji;63
+Sanzen-in;Hokanji;61.6
+Sanzen-in;Shugakuin;54.8
+International Manga;Sanzen-in;56.9
+International Manga;Hokanji;103.4
+Heian Shrine;International Manga;66.1
+Heian Shrine;Sanzen-in;107.3
+Katsura;Heian Shrine;94.5
+Fushimi Inari-taisha;Katsura;74
+

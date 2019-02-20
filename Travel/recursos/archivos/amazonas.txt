@@ -1,0 +1,8 @@
+#
+3
+Indigen;arte;343;364
+Pure;parque;339;238
+Amacayacu;parque;220;226
+2
+Indigen;Pure;57
+Amacayacu;Pure;49

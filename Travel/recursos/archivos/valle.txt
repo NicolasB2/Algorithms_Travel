@@ -1,0 +1,12 @@
+#
+4
+Uramba;parque;83;262
+Rayo;arte;252;210
+Embalse;agua;195;297
+Ermita;catedral;295;275
+4
+Uramba;Rayo;151
+Embalse;Uramba;30
+Embalse;Rayo;47
+Ermita;Rayo;52
+Ermita;Embalse;13

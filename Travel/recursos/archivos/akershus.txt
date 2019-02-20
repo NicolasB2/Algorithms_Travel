@@ -1,0 +1,30 @@
+#
+9
+Tusenfryd;parquemecanico;168;68
+Langoyene;agua;244;148
+Oscarsborg;arte;162;175
+Nesoya;parque;54;296
+Fetsund Lenser;arte;272;237
+Bronnoya;agua;106;433
+Hovik;castillo_p;162;354
+Marikollen;nieve;179;278
+Hurdal;nieve;290;353
+18
+Tusenfryd;Langoyene;45.2
+Tusenfryd;Oscarsborg;53.9
+Oscarsborg;Langoyene;31.1
+Nesoya;Oscarsborg;124
+Fetsund Lenser;Oscarsborg;83.7
+Fetsund Lenser;Langoyene;69
+Bronnoya;Nesoya;84
+Hovik;Bronnoya;59.1
+Hovik;Nesoya;64.7
+Marikollen;Hovik;53
+Marikollen;Nesoya;73.8
+Marikollen;Oscarsborg;69.1
+Marikollen;Fetsund Lenser;62.7
+Hurdal;Marikollen;32
+Hurdal;Hovik;29
+Hurdal;Nesoya;103.06
+Hurdal;Oscarsborg;94.7
+Hurdal;Fetsund Lenser;76.2

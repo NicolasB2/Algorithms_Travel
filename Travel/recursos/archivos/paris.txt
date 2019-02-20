@@ -1,0 +1,23 @@
+#
+7
+torre eiffel;torreEiffel;85;274
+Arco del Triunfo;arcoTriunfo;88;210
+louvre;louvre;206;238
+catacumbas;cueva;176;325
+notre dame;catedral;255;279
+Jardín de las Tullerías;parque;243;155
+Boulogne;agua;361;324
+13
+torre eiffel;Arco del Triunfo;32
+louvre;torre eiffel;29.9
+louvre;Arco del Triunfo;47.2
+catacumbas;torre eiffel;62
+catacumbas;louvre;56
+catacumbas;Arco del Triunfo;102
+notre dame;catacumbas;39.7
+notre dame;louvre;23.2
+notre dame;torre eiffel;108.7
+Jardín de las Tullerías;Arco del Triunfo;56.5
+Jardín de las Tullerías;louvre;48.3
+Jardín de las Tullerías;notre dame;119.2
+Boulogne;notre dame;48.8

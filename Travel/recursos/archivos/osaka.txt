@@ -1,0 +1,24 @@
+#
+8
+Osaka;castillo_j;220;267
+Nifrel;zoo;241;224
+Sumiyoshi taisha;templo_j;267;138
+Nishinomaru;parque;187;76
+National Museum;arte;274;321
+Ebisu Bridge;agua;195;359
+Hokoku;castillo_j;251;398
+Utsubo;parque;134;415
+13
+Osaka;Nifrel;21.9
+Sumiyoshi taisha;Nifrel;46.8
+Nishinomaru;Nifrel;97.3
+Nishinomaru;Sumiyoshi taisha;53.9
+National Museum;Osaka;87.4
+National Museum;Nifrel;102.3
+Ebisu Bridge;National Museum;67.9
+Ebisu Bridge;Osaka;93.4
+Hokoku;Osaka;103.6
+Hokoku;Ebisu Bridge;53.9
+Hokoku;National Museum;49.9
+Utsubo;Ebisu Bridge;83
+Utsubo;Hokoku;87.1

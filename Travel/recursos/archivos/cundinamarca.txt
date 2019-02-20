@@ -1,0 +1,23 @@
+#
+8
+Zipaquira;cueva;219;178
+Guativita;agua;266;232
+Finkana;parquemecanico;142;222
+Volcanes;agua;332;296
+Encantado;parque;70;155
+Santa Cruz;zoo;130;313
+Chingaza;parque;220;291
+Macadamia;parque;59;327
+12
+Volcanes;Guativita;73
+Volcanes;Chingaza;63
+Guativita;Chingaza;42
+Guativita;Zipaquira;38
+Guativita;Finkana;78
+Finkana;Chingaza;139
+Chingaza;Zipaquira;121
+Zipaquira;Encantado;117
+Encantado;Finkana;48
+Encantado;Macadamia;153
+Finkana;Santa Cruz;62
+Macadamia;Santa Cruz;29

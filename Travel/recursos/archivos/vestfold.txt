@@ -1,0 +1,27 @@
+#
+10
+Sandefjord;arte;268;88
+Veierland;agua;233;29
+Moutmarka;parque;142;66
+fjord;catedral;186;165
+Goksjo;agua;285;209
+Holmestrand;arte;82;179
+Sti For;parque;141;258
+Bergenhus;castillo_p;235;287
+Bryggens;arte;169;359
+Fortun;catedral;124;422
+14
+Veierland;Sandefjord;53.7
+Veierland;Moutmarka;67.1
+Sandefjord;Moutmarka;60.9
+fjord;Moutmarka;66.2
+Goksjo;fjord;62.3
+Goksjo;Sandefjord;89.3
+Sti For;Goksjo;98.2
+Sti For;fjord;67.3
+Sti For;Holmestrand;49.6
+Bergenhus;Sti For;77.2
+Bergenhus;Goksjo;73.3
+Bergenhus;Bryggens;89.2
+Bryggens;Sti For;59.4
+Bryggens;Fortun;44.99

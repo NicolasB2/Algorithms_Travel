@@ -1,0 +1,25 @@
+#
+8
+Vigeland;parque;82;193
+Palacio Real;castillo_p;205;122
+Museo de Barcos Vikingos;vikingo;136;72
+Museo del Pueblo Noruego;vikingo;206;196
+Kon-Tiki;vikingo;154;298
+Astrup Fearnley;arte;308;274
+Akerselva;parque;266;342
+ognsvann;agua;281;422
+14
+Museo de Barcos Vikingos;Palacio Real;29.7
+Palacio Real;Vigeland;66.6
+Museo de Barcos Vikingos;Vigeland;97.3
+Museo del Pueblo Noruego;Museo de Barcos Vikingos;84
+Museo del Pueblo Noruego;Vigeland;63.7
+Museo del Pueblo Noruego;Palacio Real;47.9
+Kon-Tiki;Museo del Pueblo Noruego;72.8
+Kon-Tiki;Museo de Barcos Vikingos;101.4
+Astrup Fearnley;Kon-Tiki;64.2
+Astrup Fearnley;Museo del Pueblo Noruego;71.54
+Akerselva;Museo del Pueblo Noruego;103.7
+Akerselva;Kon-Tiki;71.3
+Akerselva;Astrup Fearnley;31.5
+ognsvann;Akerselva;31.4
