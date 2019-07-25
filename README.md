@@ -1,2 +1,7 @@
 # Algorithms_Travel
-final project of class data Structures
+*final project of data Structures*
+
+**Algorithms**
+- minimum roads
+- tree generator
+- searching
